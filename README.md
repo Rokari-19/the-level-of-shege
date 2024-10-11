@@ -1,4 +1,4 @@
-<h1>200 level notes!!!!!</h1>
+<h1>All level notes!!!!!</h1>
 
 <p center >
   Notes curated by rokari(AJ)<br>
